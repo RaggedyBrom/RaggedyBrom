@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello, my name is Jeremy and I'm a Computing student at East Tennessee State University. My specific areas of interest are software and web development.
 
 <!--
 **RaggedyBrom/RaggedyBrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
